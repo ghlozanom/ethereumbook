@@ -229,4 +229,4 @@ revise this section after all other chapters of the book are complete;
 
 This book dives into Ethereum and examines every component. You will start with a simple transaction, dissect how it works, build a simple contract, make it better and follow its journey through the Ethereum system.
 
-You will learn how Ethereum works, but also why it is designed the way it is. You will be able to understand how each of the pieces work, but also how they fit together and why.
+You will learn how Ethereum works, but also why it is designed the way it is. You will be able to understand not only how each of the pieces work, but also how they fit together and why.
